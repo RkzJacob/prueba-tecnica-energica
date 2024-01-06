@@ -1,8 +1,7 @@
-/**
- * Automatic version:
- * Uses light theme by default but switches to dark theme
- * if a system-wide theme preference is set on the user's device.
- */
+
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
 
  :root {
   --background-body: #fff;

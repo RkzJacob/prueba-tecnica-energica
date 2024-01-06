@@ -3,7 +3,7 @@ function ListOfAutos  ({ autos}) {
         <ul className="autos">
               {
                 autos.map(auto => (
-                  <li className="autos" key={auto.id}>
+                  <li className="grid-cols-3" key={auto.id}>
                     <h3>{auto.marca}</h3>
                     <p>{auto.modelo}</p>
                     <img src={auto.image} alt={auto.modelo} />
