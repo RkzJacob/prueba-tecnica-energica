@@ -1,0 +1,4703 @@
+[
+    {
+    "brand": "Alfa Romeo",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000015-GIULIA.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/alfa-romeo-logo.png",
+    "model": "Giulia",
+    "path": "/nuevos/marcas/alfa-romeo/giulia",
+    "type": "model"
+    },
+    {
+    "brand": "Alfa Romeo",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000016-STELVIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/alfa-romeo-logo.png",
+    "model": "Stelvio",
+    "path": "/nuevos/marcas/alfa-romeo/stelvio",
+    "type": "model"
+    },
+    {
+    "brand": "Alfa Romeo",
+    "count": 2,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/alfa-romeo-logo.png",
+    "path": "/nuevos/marcas/alfa-romeo",
+    "type": "brand"
+    },
+    {
+    "brand": "Aston Martin",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000075-DB11 V12.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/aston-martin-logo.png",
+    "model": "DB11",
+    "path": "/nuevos/marcas/aston-martin/db11",
+    "type": "model"
+    },
+    {
+    "brand": "Aston Martin",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000078-DBS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/aston-martin-logo.png",
+    "model": "DBS",
+    "path": "/nuevos/marcas/aston-martin/dbs",
+    "type": "model"
+    },
+    {
+    "brand": "Aston Martin",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000086-DBX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/aston-martin-logo.png",
+    "model": "DBX",
+    "path": "/nuevos/marcas/aston-martin/dbx",
+    "type": "model"
+    },
+    {
+    "brand": "Aston Martin",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000080-VANTAGE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/aston-martin-logo.png",
+    "model": "Vantage",
+    "path": "/nuevos/marcas/aston-martin/vantage",
+    "type": "model"
+    },
+    {
+    "brand": "Aston Martin",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/aston-martin-logo.png",
+    "path": "/nuevos/marcas/aston-martin",
+    "type": "brand"
+    },
+    {
+    "brand": "Audi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/96199-A1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A1",
+    "path": "/nuevos/marcas/audi/a1",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/21333-A3 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A3 Sedan",
+    "path": "/nuevos/marcas/audi/a3-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/78608-A3 SPOTBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A3 Sportback",
+    "path": "/nuevos/marcas/audi/a3-sportback",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/101039-AA4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A4",
+    "path": "/nuevos/marcas/audi/a4",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/117785-A5 CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A5 Cabrio",
+    "path": "/nuevos/marcas/audi/a5-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/112474-A5 COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A5 Coupe",
+    "path": "/nuevos/marcas/audi/a5-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/112481-A5 SPORTBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A5 Sportback",
+    "path": "/nuevos/marcas/audi/a5-sportback",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/96208-A6.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "A6",
+    "path": "/nuevos/marcas/audi/a6",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000006-E TRON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "E-TRON",
+    "path": "/nuevos/marcas/audi/e-tron",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000007-E TRON GT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "E-TRON GT",
+    "path": "/nuevos/marcas/audi/e-tron-gt",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/54309-Q2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q2",
+    "path": "/nuevos/marcas/audi/q2",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33578-Q3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q3",
+    "path": "/nuevos/marcas/audi/q3",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/96215-Q3 SPORTBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q3 Sportback",
+    "path": "/nuevos/marcas/audi/q3-sportback",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/56705-Q5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q5",
+    "path": "/nuevos/marcas/audi/q5",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/115323-Q5 SPORTBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q5 Sportback",
+    "path": "/nuevos/marcas/audi/q5-sportback",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/34900-Q7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q7",
+    "path": "/nuevos/marcas/audi/q7",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/93410-Q8.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "Q8",
+    "path": "/nuevos/marcas/audi/q8",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000002-RS5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "model": "RS5",
+    "path": "/nuevos/marcas/audi/rs5",
+    "type": "model"
+    },
+    {
+    "brand": "Audi",
+    "count": 18,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/audi-logo.png",
+    "path": "/nuevos/marcas/audi",
+    "type": "brand"
+    },
+    {
+    "brand": "Baic",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/9999999-Bj40-blanco.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/baic-logo.png",
+    "model": "BJ40P",
+    "path": "/nuevos/marcas/baic/bj40p",
+    "type": "model"
+    },
+    {
+    "brand": "Baic",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/51779-x35.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/baic-logo.png",
+    "model": "X35",
+    "path": "/nuevos/marcas/baic/x35",
+    "type": "model"
+    },
+    {
+    "brand": "Baic",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/51224-x55.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/baic-logo.png",
+    "model": "X55",
+    "path": "/nuevos/marcas/baic/x55",
+    "type": "model"
+    },
+    {
+    "brand": "Baic",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/baic-x55-plus-15t-g-at-4x2-comfort-bencina-automatico-4x2-suv-4jYNLN8ezsYite1DZqFUbn.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/baic-logo.png",
+    "model": "X55 Plus",
+    "path": "/nuevos/marcas/baic/x55-plus",
+    "type": "model"
+    },
+    {
+    "brand": "Baic",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/baic-logo.png",
+    "path": "/nuevos/marcas/baic",
+    "type": "brand"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118871-ix.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "iX",
+    "path": "/nuevos/marcas/bmw/ix",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118869-ix3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "iX3",
+    "path": "/nuevos/marcas/bmw/ix3",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/bmw-m2-m2-bencina-automatico-4x2-deportivo-1rLoUzD7yXm8AxssiempK2.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "M2",
+    "path": "/nuevos/marcas/bmw/m2",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/114536-serie 1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 1",
+    "path": "/nuevos/marcas/bmw/serie-1",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/btNzqTcjat6Yuo1X1bESNd.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 2 Coupe",
+    "path": "/nuevos/marcas/bmw/serie-2-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/114541-serie 2 gran coupe.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 2 Gran Coupe",
+    "path": "/nuevos/marcas/bmw/serie-2-gran-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131316-SERIE 3 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 3 Sedan",
+    "path": "/nuevos/marcas/bmw/serie-3-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/74867-SERIE 4 CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 4 Cabrio",
+    "path": "/nuevos/marcas/bmw/serie-4-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33169-SERIE 4 COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 4 Coupe",
+    "path": "/nuevos/marcas/bmw/serie-4-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33955-SERIE 4 GRAN COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 4 Gran Coupe",
+    "path": "/nuevos/marcas/bmw/serie-4-gran-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108856-SERIE 5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 5",
+    "path": "/nuevos/marcas/bmw/serie-5",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/76161-SERIE 7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 7",
+    "path": "/nuevos/marcas/bmw/serie-7",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/86741-SERIE 8 CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 8 Cabrio",
+    "path": "/nuevos/marcas/bmw/serie-8-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/78338-SERIE 8 COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 8 Coupe",
+    "path": "/nuevos/marcas/bmw/serie-8-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108867-SERIE 8 GRAN COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Serie 8 Gran Coupe",
+    "path": "/nuevos/marcas/bmw/serie-8-gran-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131850-X1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X1",
+    "path": "/nuevos/marcas/bmw/x1",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102418-X2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X2",
+    "path": "/nuevos/marcas/bmw/x2",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102428-X3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X3",
+    "path": "/nuevos/marcas/bmw/x3",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118900-X4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X4",
+    "path": "/nuevos/marcas/bmw/x4",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 10,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/74952-X5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X5",
+    "path": "/nuevos/marcas/bmw/x5",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/31869-X6.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X6",
+    "path": "/nuevos/marcas/bmw/x6",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125458-X7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "X7",
+    "path": "/nuevos/marcas/bmw/x7",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/78359-Z4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "model": "Z4",
+    "path": "/nuevos/marcas/bmw/z4",
+    "type": "model"
+    },
+    {
+    "brand": "BMW",
+    "count": 23,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/bmw-logo.png",
+    "path": "/nuevos/marcas/bmw",
+    "type": "brand"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113792-T30.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T30",
+    "path": "/nuevos/marcas/brilliance/t30",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/134619-T30 CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T30 Cargo BOX",
+    "path": "/nuevos/marcas/brilliance/t30-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113796-T32.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T32",
+    "path": "/nuevos/marcas/brilliance/t32",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113804-T50.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T50",
+    "path": "/nuevos/marcas/brilliance/t50",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/134632-T50 CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T50 Cargo BOX",
+    "path": "/nuevos/marcas/brilliance/t50-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113806-T52.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "T52",
+    "path": "/nuevos/marcas/brilliance/t52",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113800-X30.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "model": "X30",
+    "path": "/nuevos/marcas/brilliance/x30",
+    "type": "model"
+    },
+    {
+    "brand": "Brilliance",
+    "count": 7,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/brilliance-logo.png",
+    "path": "/nuevos/marcas/brilliance",
+    "type": "brand"
+    },
+    {
+    "brand": "BYD",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/byd-dolphin-ev-electrico-automatico-4x2-hatchback-sZEP2GbkMm2V4W66ZmFwDK.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Dolphin",
+    "path": "/nuevos/marcas/byd/dolphin",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100087-Han EV 2.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "HAN EV",
+    "path": "/nuevos/marcas/byd/han-ev",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/byd-qin-15g-phev-at-4x2-5p-plus-dm-i-hibrido-enchufable-automatico-4x2-sedan-eo7FnhjTrMyArrt1WjQC8D.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Qin",
+    "path": "/nuevos/marcas/byd/qin",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/byd-seal-8256-kw-awd-4p-gs-electrico-automatico-4x4-sedan-6Rizp8C6b1eiRMtobHVcHo.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Seal",
+    "path": "/nuevos/marcas/byd/seal",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100089-Song plus.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Song Plus DM-I",
+    "path": "/nuevos/marcas/byd/song-plus-dm-i",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100088-Tang EV.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Tang EV",
+    "path": "/nuevos/marcas/byd/tang-ev",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100092-Yuan Plus.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "model": "Yuan Plus EV",
+    "path": "/nuevos/marcas/byd/yuan-plus-ev",
+    "type": "model"
+    },
+    {
+    "brand": "BYD",
+    "count": 7,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/byd-logo.png",
+    "path": "/nuevos/marcas/byd",
+    "type": "brand"
+    },
+    {
+    "brand": "Changan",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/105552-ALSVIN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Alsvin",
+    "path": "/nuevos/marcas/changan/alsvin",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97245-CS15.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "CS15",
+    "path": "/nuevos/marcas/changan/cs15",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59829-CS35.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "CS35 Plus",
+    "path": "/nuevos/marcas/changan/cs35-plus",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/83563-CS55.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "CS55",
+    "path": "/nuevos/marcas/changan/cs55",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/changan-cs55-plus-15-g-aut-plus-elite-bencina-automatico-4x2-suv-p2gtPRGxUTBn79APcojA4Q.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "CS55 Plus",
+    "path": "/nuevos/marcas/changan/cs55-plus",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97726-HUNTER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Hunter",
+    "path": "/nuevos/marcas/changan/hunter",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/134038-CS55.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "New CS55",
+    "path": "/nuevos/marcas/changan/new-cs55",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/25039-SERIE M.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Serie M",
+    "path": "/nuevos/marcas/changan/serie-m",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/25041-CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Serie M Cargo BOX",
+    "path": "/nuevos/marcas/changan/serie-m-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/62326-SERIE M FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Serie M Furgon",
+    "path": "/nuevos/marcas/changan/serie-m-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/changan-star-truck-plus-cargo-box-16-g-mt-4x2-2p-bencina-mecanico-4x2-comercial-dv67JwUjEBHEYhzFhN5tcm.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Star Truck Plus Cargo Box",
+    "path": "/nuevos/marcas/changan/star-truck-plus-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/changan-star-truck-plus-pick-up-cabina-doble-16-g-mt-4x2-5p-ms301-pick-up-doble-cabina-bencina-mecanico-4x2-pick-up-cN8iKQyaLJYY1u9WydEtde.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Star Truck Plus Pick-Up Cabina Doble",
+    "path": "/nuevos/marcas/changan/star-truck-plus-pick-up-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/changan-star-truck-plus-pick-up-cabina-simple-16-g-mt-4x2-5p-md301-pick-up-cabina-simple-bencina-mecanico-4x2-pick-up-tQupASMqCK2pZYqgepm4Zs.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "Star Truck Plus Pick-Up Cabina Simple",
+    "path": "/nuevos/marcas/changan/star-truck-plus-pick-up-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/changan-uni-k-20t-g-at-4x2-5p-luxury-bencina-automatico-4x2-suv-4VR9JfWqnNzPLYY3iXV14Q.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "UNI-K",
+    "path": "/nuevos/marcas/changan/uni-k",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125355-UNI-T.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "UNI-T",
+    "path": "/nuevos/marcas/changan/uni-t",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/changan-x7-15t-g-at-4x2-5p-elite-bencina-automatico-4x2-suv-pV6ovf3gbT1sJLVVm2pWHe.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "model": "X7",
+    "path": "/nuevos/marcas/changan/x7",
+    "type": "model"
+    },
+    {
+    "brand": "Changan",
+    "count": 16,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/changan-logo.png",
+    "path": "/nuevos/marcas/changan",
+    "type": "brand"
+    },
+    {
+    "brand": "Chery",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/110935-TIGGO 2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 2",
+    "path": "/nuevos/marcas/chery/tiggo-2",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/2jwZy6KoWRkrVTbjq1Bj2q.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 2 PRO",
+    "path": "/nuevos/marcas/chery/tiggo-2-pro",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/c9HoF8PVGYhPrSRZkxJAXx.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 3",
+    "path": "/nuevos/marcas/chery/tiggo-3",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130910-download__1___1_-removebg-preview.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 3 PRO",
+    "path": "/nuevos/marcas/chery/tiggo-3-pro",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/110073-TIGGO 7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 7 PRO",
+    "path": "/nuevos/marcas/chery/tiggo-7-pro",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/88351-TIGGO 8.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 8",
+    "path": "/nuevos/marcas/chery/tiggo-8",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/119712-TIGGO 8 PRO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "model": "Tiggo 8 PRO",
+    "path": "/nuevos/marcas/chery/tiggo-8-pro",
+    "type": "model"
+    },
+    {
+    "brand": "Chery",
+    "count": 7,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chery-logo.png",
+    "path": "/nuevos/marcas/chery",
+    "type": "brand"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/81501-BLAZER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Blazer",
+    "path": "/nuevos/marcas/chevrolet/blazer",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/chevrolet-bolt-euv-147-kw-at-4x2-5p-ltz-electrico-automatico-4x2-hatchback-urXT326WuWGgDf4zDf2pXW.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Bolt EUV",
+    "path": "/nuevos/marcas/chevrolet/bolt-euv",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/obWvbhzuterr6pzoRyReH8.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Colorado",
+    "path": "/nuevos/marcas/chevrolet/colorado",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102021-GROOVEL.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Groove",
+    "path": "/nuevos/marcas/chevrolet/groove",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100115-1684764078-trimmy-chevrolet-montana-auto.cl (1).png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Montana",
+    "path": "/nuevos/marcas/chevrolet/montana",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/90809-N400 CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "N400 Cargo",
+    "path": "/nuevos/marcas/chevrolet/n400-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118245-CAPTIVA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Nueva Captiva",
+    "path": "/nuevos/marcas/chevrolet/nueva-captiva",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/99577-TRACKER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Nueva Tracker",
+    "path": "/nuevos/marcas/chevrolet/nueva-tracker",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/103780-ONIX2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Nuevo Onix",
+    "path": "/nuevos/marcas/chevrolet/nuevo-onix",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/98085-ONIX SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Nuevo Onix Sedan",
+    "path": "/nuevos/marcas/chevrolet/nuevo-onix-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/chevrolet-sail-sedan-15-g-at-4x2-5p-ltz-bencina-automatico-4x2-sedan-fRhS388rZV2vRk2GgCZVRT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Sail Sedan",
+    "path": "/nuevos/marcas/chevrolet/sail-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131038-SILVERADO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Silverado CD",
+    "path": "/nuevos/marcas/chevrolet/silverado-cd",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/45152-SPIN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Spin",
+    "path": "/nuevos/marcas/chevrolet/spin",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/chevrolet-spin-activ-18-g-at-4x2-5p-p-bencina-automatico-4x2-suv-pzD5XVhU6bGvwvVkSbBbPD.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Spin Activ",
+    "path": "/nuevos/marcas/chevrolet/spin-activ",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/127561-SUBURBAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Suburban",
+    "path": "/nuevos/marcas/chevrolet/suburban",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/127559-TAHOE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Tahoe",
+    "path": "/nuevos/marcas/chevrolet/tahoe",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/dNfFxp8YwDZ2ffKv583deS.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "model": "Traverse",
+    "path": "/nuevos/marcas/chevrolet/traverse",
+    "type": "model"
+    },
+    {
+    "brand": "Chevrolet",
+    "count": 17,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/chevrolet-logo.png",
+    "path": "/nuevos/marcas/chevrolet",
+    "type": "brand"
+    },
+    {
+    "brand": "Citroën",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33427-BERLINGO.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Berlingo",
+    "path": "/nuevos/marcas/citroen/berlingo",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/85082-BERLINGO MULTISPACE.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Berlingo Multispace",
+    "path": "/nuevos/marcas/citroen/berlingo-multispace",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/116875-C-ELYSÉE.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "C-ELYSÉE",
+    "path": "/nuevos/marcas/citroen/c-elysee",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/57472-C3.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "C3",
+    "path": "/nuevos/marcas/citroen/c3",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/105126-C5 AIRCROSS.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "C5 Aircross",
+    "path": "/nuevos/marcas/citroen/c5-aircross",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/citroen-c5-aircross-plug-in-hybrid-c5-aircrosss-plug-in-hybrid-puretech-180-shine-hibrido-enchufable-automatico-4x2-suv-97CgXxfqq87Dphci9pMZkd.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "C5 Aircross Plug - In Hybrid",
+    "path": "/nuevos/marcas/citroen/c5-aircross-plug-in-hybrid",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108922-JUMPER CHASIS.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Jumper Chasis",
+    "path": "/nuevos/marcas/citroen/jumper-chasis",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/53499-JUMPER FURGON.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Jumper Furgon",
+    "path": "/nuevos/marcas/citroen/jumper-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/85088-JUMPER MINIBUS.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Jumper Minibus",
+    "path": "/nuevos/marcas/citroen/jumper-minibus",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/citroen-nueva-c4-12-g-at-4x2-5p-puretech-130-sands-eat8-feel-nYREcKLB6ZtsFdxmNz7JpA.png",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Nueva C4",
+    "path": "/nuevos/marcas/citroen/nueva-c4",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/53387-SPACETOURER.jpg",
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "model": "Spacetourer",
+    "path": "/nuevos/marcas/citroen/spacetourer",
+    "type": "model"
+    },
+    {
+    "brand": "Citroën",
+    "count": 11,
+    "logo": "https://assets.auto.cl/brands/citroen/Citroen-Logo.webp",
+    "path": "/nuevos/marcas/citroen",
+    "type": "brand"
+    },
+    {
+    "brand": "Cupra",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128472-ATECA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/cupra-logo.png",
+    "model": "Ateca",
+    "path": "/nuevos/marcas/cupra/ateca",
+    "type": "model"
+    },
+    {
+    "brand": "Cupra",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128504-FOMENTOR.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/cupra-logo.png",
+    "model": "Formentor",
+    "path": "/nuevos/marcas/cupra/formentor",
+    "type": "model"
+    },
+    {
+    "brand": "Cupra",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/cupra-leon-14-tsi-g-at-4x2-bencina-automatico-4x2-hatchback-m8ToiZcLY3qeVx86ZUvRFT.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/cupra-logo.png",
+    "model": "León",
+    "path": "/nuevos/marcas/cupra/leon",
+    "type": "model"
+    },
+    {
+    "brand": "Cupra",
+    "count": 3,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/cupra-logo.png",
+    "path": "/nuevos/marcas/cupra",
+    "type": "brand"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/116635-500.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "500",
+    "path": "/nuevos/marcas/dfsk/500",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113594-560.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "560",
+    "path": "/nuevos/marcas/dfsk/560",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/54908-580.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "580",
+    "path": "/nuevos/marcas/dfsk/580",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/dfsk-600-15t-g-at-4x2-comfort-bencina-automatico-4x2-suv-4daWwuG519CHdbhFehPwk7.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "600",
+    "path": "/nuevos/marcas/dfsk/600",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/65740-CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "Cargo BOX",
+    "path": "/nuevos/marcas/dfsk/cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/65750-CARGO VAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "Cargo VAN",
+    "path": "/nuevos/marcas/dfsk/cargo-van",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113614-REFRITRUCK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "Refritruck",
+    "path": "/nuevos/marcas/dfsk/refritruck",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/35627-TRUCK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "model": "Truck",
+    "path": "/nuevos/marcas/dfsk/truck",
+    "type": "model"
+    },
+    {
+    "brand": "Dfsk",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dfsk-logo.png",
+    "path": "/nuevos/marcas/dfsk",
+    "type": "brand"
+    },
+    {
+    "brand": "Dodge",
+    "count": 0,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dodge-logo.png",
+    "path": "/nuevos/marcas/dodge",
+    "type": "brand"
+    },
+    {
+    "brand": "Dongfeng",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/dongfeng-aeolus-gs-cross-15-g-at-4x2-5p-gs-bencina-automatico-4x2-suv-bRNPzucJcYBajNFfsHFaUd.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dongfeng-logo.png",
+    "model": "Aeolus GS Cross",
+    "path": "/nuevos/marcas/dongfeng/aeolus-gs-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Dongfeng",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/dongfeng-aeolus-y3-15-g-at-4x2-4p-confort-bencina-automatico-4x2-sedan-h8AzDcn3nLya31bEH427Kc.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dongfeng-logo.png",
+    "model": "Aeolus Y3",
+    "path": "/nuevos/marcas/dongfeng/aeolus-y3",
+    "type": "model"
+    },
+    {
+    "brand": "Dongfeng",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130444-T5 EVO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dongfeng-logo.png",
+    "model": "T5 EVO",
+    "path": "/nuevos/marcas/dongfeng/t5-evo",
+    "type": "model"
+    },
+    {
+    "brand": "Dongfeng",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130442-T5L.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dongfeng-logo.png",
+    "model": "T5L",
+    "path": "/nuevos/marcas/dongfeng/t5l",
+    "type": "model"
+    },
+    {
+    "brand": "Dongfeng",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/dongfeng-logo.png",
+    "path": "/nuevos/marcas/dongfeng",
+    "type": "brand"
+    },
+    {
+    "brand": "DS",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/104130-DS3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ds-logo.png",
+    "model": "DS3 Crossback",
+    "path": "/nuevos/marcas/ds/ds3-crossback",
+    "type": "model"
+    },
+    {
+    "brand": "DS",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000009-DS4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ds-logo.png",
+    "model": "DS4",
+    "path": "/nuevos/marcas/ds/ds4",
+    "type": "model"
+    },
+    {
+    "brand": "DS",
+    "count": 5,
+    "image": "https://assets.auto.cl/nvi/ds-ds7-ds-7-bastille-16-thp-220-auto8-performance-line-bencina-automatico-4x2-suv-8jpKuwsQKX1GMdxr8iwzE4.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ds-logo.png",
+    "model": "DS7",
+    "path": "/nuevos/marcas/ds/ds7",
+    "type": "model"
+    },
+    {
+    "brand": "DS",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/111801-DS7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ds-logo.png",
+    "model": "DS7 Crossback",
+    "path": "/nuevos/marcas/ds/ds7-crossback",
+    "type": "model"
+    },
+    {
+    "brand": "DS",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ds-logo.png",
+    "path": "/nuevos/marcas/ds",
+    "type": "brand"
+    },
+    {
+    "brand": "Exeed",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130228-LX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/exeed-logo.png",
+    "model": "LX",
+    "path": "/nuevos/marcas/exeed/lx",
+    "type": "model"
+    },
+    {
+    "brand": "Exeed",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130232-TXL.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/exeed-logo.png",
+    "model": "TXL",
+    "path": "/nuevos/marcas/exeed/txl",
+    "type": "model"
+    },
+    {
+    "brand": "Exeed",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130236-XV.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/exeed-logo.png",
+    "model": "VX",
+    "path": "/nuevos/marcas/exeed/vx",
+    "type": "model"
+    },
+    {
+    "brand": "Exeed",
+    "count": 3,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/exeed-logo.png",
+    "path": "/nuevos/marcas/exeed",
+    "type": "brand"
+    },
+    {
+    "brand": "FAW",
+    "count": 0,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/faw-logo.png",
+    "path": "/nuevos/marcas/faw",
+    "type": "brand"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000059-296.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "296",
+    "path": "/nuevos/marcas/ferrari/296",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000057-812.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "812",
+    "path": "/nuevos/marcas/ferrari/812",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000063-F8.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "F8",
+    "path": "/nuevos/marcas/ferrari/f8",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000066-PORTOFINO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "Portofino",
+    "path": "/nuevos/marcas/ferrari/portofino",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000065-ROMA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "Roma",
+    "path": "/nuevos/marcas/ferrari/roma",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/xvkNvquenrpG35WTb39T9B.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "model": "Sf90",
+    "path": "/nuevos/marcas/ferrari/sf90",
+    "type": "model"
+    },
+    {
+    "brand": "Ferrari",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ferrari-logo.png",
+    "path": "/nuevos/marcas/ferrari",
+    "type": "brand"
+    },
+    {
+    "brand": "Fiat",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59051-ARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Argo",
+    "path": "/nuevos/marcas/fiat/argo",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/88029-CRONOS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Cronos",
+    "path": "/nuevos/marcas/fiat/cronos",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/47655-DUCATO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Ducato",
+    "path": "/nuevos/marcas/fiat/ducato",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/fiat-ducato-pasajeros-23-d-mt-4x2-161-butaca-doble-diesel-mecanico-4x2-comercial-p927wyho6h4JrpT1YLHPBE.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Ducato Pasajeros",
+    "path": "/nuevos/marcas/fiat/ducato-pasajeros",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100093-blanco_banchisa (1).png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Fastback",
+    "path": "/nuevos/marcas/fiat/fastback",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/95479-MOBI.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Mobi",
+    "path": "/nuevos/marcas/fiat/mobi",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/124676-PULSE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "model": "Pulse",
+    "path": "/nuevos/marcas/fiat/pulse",
+    "type": "model"
+    },
+    {
+    "brand": "Fiat",
+    "count": 7,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/fiat-logo.png",
+    "path": "/nuevos/marcas/fiat",
+    "type": "brand"
+    },
+    {
+    "brand": "Ford",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/110742-BRONCO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Bronco Sport",
+    "path": "/nuevos/marcas/ford/bronco-sport",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/39777-EDGE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Edge",
+    "path": "/nuevos/marcas/ford/edge",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/ford-escape-20t-g-at-4x4-5p-platinum-ecoboost-awd-bencina-automatico-4x4-suv-8fmdV4PxgGHu1YnYnwAwZV.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Escape",
+    "path": "/nuevos/marcas/ford/escape",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 5,
+    "image": "https://assets.auto.cl/nvi/wJao7qCw9pGpvaH6HL1oyo.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Explorer",
+    "path": "/nuevos/marcas/ford/explorer",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59753-F150 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "F-150 Cabina Doble",
+    "path": "/nuevos/marcas/ford/f-150-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59751-F150 CS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "F-150 Cabina Simple",
+    "path": "/nuevos/marcas/ford/f-150-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/qsbfHgjqroyWVDLjP1suhp.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "F-150 Raptor Cabina Doble",
+    "path": "/nuevos/marcas/ford/f-150-raptor-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/119784-MAVERICK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Maverick",
+    "path": "/nuevos/marcas/ford/maverick",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/31027-MUSTANG.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Mustang",
+    "path": "/nuevos/marcas/ford/mustang",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 8,
+    "image": "https://assets.auto.cl/nvi/ford-ranger-20-d-4x4-at-ltd-diesel-automatico-4x4-pick-up-x94uMzGAvFkSgjVuBfwvhA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Ranger",
+    "path": "/nuevos/marcas/ford/ranger",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/ford-ranger-raptor-20-d-at-4x4-4p-raptor-cd-kurtPXMDEDpvvBuyi8a7ge.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Ranger Raptor",
+    "path": "/nuevos/marcas/ford/ranger-raptor",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/ford-territory-15t-g-at-4x2-5p-titanium-bencina-automatico-4x2-suv-vNM5FvWbDbiurEJ2t3gbdX.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Territory",
+    "path": "/nuevos/marcas/ford/territory",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113254-TRANSIT CUSTOM FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Transit Custom Furgon",
+    "path": "/nuevos/marcas/ford/transit-custom-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113246-TRANSIT FRUGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Transit Furgon",
+    "path": "/nuevos/marcas/ford/transit-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/35098-MINIBUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "model": "Transit Minibus",
+    "path": "/nuevos/marcas/ford/transit-minibus",
+    "type": "model"
+    },
+    {
+    "brand": "Ford",
+    "count": 15,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ford-logo.png",
+    "path": "/nuevos/marcas/ford",
+    "type": "brand"
+    },
+    {
+    "brand": "Foton",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59775-FT BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "FT BOX",
+    "path": "/nuevos/marcas/foton/ft-box",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58929-FT CREW.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "FT Crew",
+    "path": "/nuevos/marcas/foton/ft-crew",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/133784-G7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "G7",
+    "path": "/nuevos/marcas/foton/g7",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/66834-K1 CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "K1 Cargo",
+    "path": "/nuevos/marcas/foton/k1-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/66944-MIDI CHASIS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "Midi Chasis",
+    "path": "/nuevos/marcas/foton/midi-chasis",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102630-TM3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "TM3",
+    "path": "/nuevos/marcas/foton/tm3",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/foton-tm5-16-g-mt-5p-cd-bencina-mecanico-4x2-comercial-3QnqMvJykhP7z8ks9HMVEx.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "TM5",
+    "path": "/nuevos/marcas/foton/tm5",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/foton-tm5-cabina-simple-16-g-mt-2p-cs-bencina-mecanico-4x2-comercial-3V8xoC4UVenAGpkjXsKEdw.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "model": "TM5 Cabina Simple",
+    "path": "/nuevos/marcas/foton/tm5-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Foton",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/foton-logo.png",
+    "path": "/nuevos/marcas/foton",
+    "type": "brand"
+    },
+    {
+    "brand": "GAC",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/gac-emkoo-15-ge-at-bencina-automatico-4x2-suv-oymT3FtnJcnWn1KoWNBpn6.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "model": "Emkoo",
+    "path": "/nuevos/marcas/gac/emkoo",
+    "type": "model"
+    },
+    {
+    "brand": "GAC",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/gac-emzoom-15t-g-at-4x2-5as-gb-bencina-automatico-4x2-suv-7mJaPsX6i9Gj37Q31aaiY1.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "model": "Emzoom",
+    "path": "/nuevos/marcas/gac/emzoom",
+    "type": "model"
+    },
+    {
+    "brand": "GAC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/107682-GS3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "model": "GS3",
+    "path": "/nuevos/marcas/gac/gs3",
+    "type": "model"
+    },
+    {
+    "brand": "GAC",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125696-GS4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "model": "GS4",
+    "path": "/nuevos/marcas/gac/gs4",
+    "type": "model"
+    },
+    {
+    "brand": "GAC",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/uuV9JRsb6ZsJv6jrMWu4r9.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "model": "GS8",
+    "path": "/nuevos/marcas/gac/gs8",
+    "type": "model"
+    },
+    {
+    "brand": "GAC",
+    "count": 5,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/gac-logo.png",
+    "path": "/nuevos/marcas/gac",
+    "type": "brand"
+    },
+    {
+    "brand": "Geely",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/124154-AZKARRA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/geely-logo.png",
+    "model": "Azkarra",
+    "path": "/nuevos/marcas/geely/azkarra",
+    "type": "model"
+    },
+    {
+    "brand": "Geely",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/90663-GEOMETRYC.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/geely-logo.png",
+    "model": "Geometry C",
+    "path": "/nuevos/marcas/geely/geometry-c",
+    "type": "model"
+    },
+    {
+    "brand": "Geely",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/knxZz6oLz6dqhPMFovPMVz.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/geely-logo.png",
+    "model": "New Coolray",
+    "path": "/nuevos/marcas/geely/new-coolray",
+    "type": "model"
+    },
+    {
+    "brand": "Geely",
+    "count": 3,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/geely-logo.png",
+    "path": "/nuevos/marcas/geely",
+    "type": "brand"
+    },
+    {
+    "brand": "Great Wall",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128298-PEOR.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/great-wall-logo.png",
+    "model": "Poer",
+    "path": "/nuevos/marcas/great-wall/poer",
+    "type": "model"
+    },
+    {
+    "brand": "Great Wall",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/123502-WINGLE 7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/great-wall-logo.png",
+    "model": "Wingle 7",
+    "path": "/nuevos/marcas/great-wall/wingle-7",
+    "type": "model"
+    },
+    {
+    "brand": "Great Wall",
+    "count": 2,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/great-wall-logo.png",
+    "path": "/nuevos/marcas/great-wall",
+    "type": "brand"
+    },
+    {
+    "brand": "Haval",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130168-DARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/haval-logo.png",
+    "model": "Dargo",
+    "path": "/nuevos/marcas/haval/dargo",
+    "type": "model"
+    },
+    {
+    "brand": "Haval",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128308-H6.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/haval-logo.png",
+    "model": "H6",
+    "path": "/nuevos/marcas/haval/h6",
+    "type": "model"
+    },
+    {
+    "brand": "Haval",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/2tpPYU7moJRQdmuqF6Zu9s.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/haval-logo.png",
+    "model": "H6 GT",
+    "path": "/nuevos/marcas/haval/h6-gt",
+    "type": "model"
+    },
+    {
+    "brand": "Haval",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/110982-JOLION.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/haval-logo.png",
+    "model": "Jolion",
+    "path": "/nuevos/marcas/haval/jolion",
+    "type": "model"
+    },
+    {
+    "brand": "Haval",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/haval-logo.png",
+    "path": "/nuevos/marcas/haval",
+    "type": "brand"
+    },
+    {
+    "brand": "Honda",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/129799-CITY.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "City",
+    "path": "/nuevos/marcas/honda/city",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/eySULc1DJsdWMnZpBaaZXV.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "City HB",
+    "path": "/nuevos/marcas/honda/city-hb",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/121905-CIVIC.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "Civic",
+    "path": "/nuevos/marcas/honda/civic",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/dnFVWENyjSmkxABwEmxqAj.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "CR-V",
+    "path": "/nuevos/marcas/honda/cr-v",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/honda-hr-v-hr-v-ex-bencina-automatico-4x2-suv-g4b8YJ1Zv1DmXfKEer1oYR.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "HR-V",
+    "path": "/nuevos/marcas/honda/hr-v",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/honda-pilot-v6-35-g-4x4-at-elite-bencina-automatico-4x4-suv-iyxWjoxvgwqVDPqoUJXd6x.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "Pilot",
+    "path": "/nuevos/marcas/honda/pilot",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97677-REDGELINE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "Ridgeline",
+    "path": "/nuevos/marcas/honda/ridgeline",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/49768-WR-V.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "WR-V",
+    "path": "/nuevos/marcas/honda/wr-v",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/honda-zr-v-20-g-cvt-4x2-5p-exl-bencina-automatico-4x2-suv-rkhta6NgMwg6JbQJjQMv7P.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "model": "ZR-V",
+    "path": "/nuevos/marcas/honda/zr-v",
+    "type": "model"
+    },
+    {
+    "brand": "Honda",
+    "count": 9,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/honda-logo.png",
+    "path": "/nuevos/marcas/honda",
+    "type": "brand"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/hyundai-accent-sedan-15-g-at-5p-design-bencina-automatico-4x2-sedan-miYGjjD2kdnyFjz6kvb57y.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Accent Sedan",
+    "path": "/nuevos/marcas/hyundai/accent-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 5,
+    "image": "https://assets.auto.cl/nvi/hyundai-creta-15-g-mt-4x2-5p-plus-bencina-mecanico-4x2-suv-xun1D8Dd66s1hHnnGgaE47.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Creta",
+    "path": "/nuevos/marcas/hyundai/creta",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/112321-ELANTRA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Elantra",
+    "path": "/nuevos/marcas/hyundai/elantra",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/122417-GRAND CRETA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Grand Creta",
+    "path": "/nuevos/marcas/hyundai/grand-creta",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/34748-GRAN I10 HATCHBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Grand i10 Hatchback",
+    "path": "/nuevos/marcas/hyundai/grand-i10-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/40409-GRAND I10.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Grand I10 Sedan",
+    "path": "/nuevos/marcas/hyundai/grand-i10-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/45499-I20.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "I20",
+    "path": "/nuevos/marcas/hyundai/i20",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/mEgdbuGwFc1eEtJ1VxMjiN.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Ionix5",
+    "path": "/nuevos/marcas/hyundai/ionix5",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/101530-KONA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Kona",
+    "path": "/nuevos/marcas/hyundai/kona",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/vXm9sYnJDfprVabUsuy19Q.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Palisade",
+    "path": "/nuevos/marcas/hyundai/palisade",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/1459-PORTER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Porter",
+    "path": "/nuevos/marcas/hyundai/porter",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/18722-SANTA FE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Santa FE",
+    "path": "/nuevos/marcas/hyundai/santa-fe",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/116548-STARIA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Staria",
+    "path": "/nuevos/marcas/hyundai/staria",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125932-STARIA FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Staria Furgon",
+    "path": "/nuevos/marcas/hyundai/staria-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/111178-TUCSON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Tucson",
+    "path": "/nuevos/marcas/hyundai/tucson",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/86480-VENUE QX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "model": "Venue QX",
+    "path": "/nuevos/marcas/hyundai/venue-qx",
+    "type": "model"
+    },
+    {
+    "brand": "Hyundai",
+    "count": 16,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/hyundai-logo.png",
+    "path": "/nuevos/marcas/hyundai",
+    "type": "brand"
+    },
+    {
+    "brand": "JAC",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/106899-JS2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "JS2",
+    "path": "/nuevos/marcas/jac/js2",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/106911-JS3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "JS3",
+    "path": "/nuevos/marcas/jac/js3",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/111102-JS4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "JS4",
+    "path": "/nuevos/marcas/jac/js4",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118712-JS8.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "JS8",
+    "path": "/nuevos/marcas/jac/js8",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/71002-REFINE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "Refine",
+    "path": "/nuevos/marcas/jac/refine",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/75552-REFINE FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "Refine Furgón",
+    "path": "/nuevos/marcas/jac/refine-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/87200-SUNRAY ESCOLAR.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "Sunray Escolar",
+    "path": "/nuevos/marcas/jac/sunray-escolar",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/61120-SUNRAY PASAJEROS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "Sunray Pasajeros",
+    "path": "/nuevos/marcas/jac/sunray-pasajeros",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58559-T6.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "T6",
+    "path": "/nuevos/marcas/jac/t6",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/83277-T8.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "T8",
+    "path": "/nuevos/marcas/jac/t8",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/43046-X200.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "model": "X200",
+    "path": "/nuevos/marcas/jac/x200",
+    "type": "model"
+    },
+    {
+    "brand": "JAC",
+    "count": 11,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jac-logo.png",
+    "path": "/nuevos/marcas/jac",
+    "type": "brand"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000033-E-PACE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "E-PACE",
+    "path": "/nuevos/marcas/jaguar/e-pace",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000034-F-PACE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "F-PACE",
+    "path": "/nuevos/marcas/jaguar/f-pace",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000037-F-TYPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "F-TYPE",
+    "path": "/nuevos/marcas/jaguar/f-type",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000036-I-PACE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "I-PACE",
+    "path": "/nuevos/marcas/jaguar/i-pace",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000031-XE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "XE",
+    "path": "/nuevos/marcas/jaguar/xe",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000032-XF.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "model": "XF",
+    "path": "/nuevos/marcas/jaguar/xf",
+    "type": "model"
+    },
+    {
+    "brand": "Jaguar",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jaguar-logo.png",
+    "path": "/nuevos/marcas/jaguar",
+    "type": "brand"
+    },
+    {
+    "brand": "Jeep",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/129293-COMMANDER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Commander",
+    "path": "/nuevos/marcas/jeep/commander",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118387-COMPASS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Compass",
+    "path": "/nuevos/marcas/jeep/compass",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/105779-GLADIATOR.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Gladiator",
+    "path": "/nuevos/marcas/jeep/gladiator",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/jeep-grand-cherokee-36-g-at-4x4-5p-altitud-5as-bencina-automatico-4x4-suv-64LmnBfSiXMyVvjvuhXCQD.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Grand Cherokee",
+    "path": "/nuevos/marcas/jeep/grand-cherokee",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/qnNpNpMWmbcgzVwPhV2x4L.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Renegade",
+    "path": "/nuevos/marcas/jeep/renegade",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/17979-WRANGLER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "model": "Wrangler",
+    "path": "/nuevos/marcas/jeep/wrangler",
+    "type": "model"
+    },
+    {
+    "brand": "Jeep",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jeep-logo.png",
+    "path": "/nuevos/marcas/jeep",
+    "type": "brand"
+    },
+    {
+    "brand": "Jetour",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/jetour-dashing-15t-6dct-turbo-lux-bencina-mecanico-4x2-suv-tHw66THFkkyDaT759Y56rb.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jetour-logo.png",
+    "model": "Dashing",
+    "path": "/nuevos/marcas/jetour/dashing",
+    "type": "model"
+    },
+    {
+    "brand": "Jetour",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/104980-X70.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jetour-logo.png",
+    "model": "X70",
+    "path": "/nuevos/marcas/jetour/x70",
+    "type": "model"
+    },
+    {
+    "brand": "Jetour",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/jetour-x70-plus-15t-g-dct6-4x2-5p-7as-plus-bencina-automatico-4x2-suv-xqwjELBPoSM4VhX6Wx4R9z.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jetour-logo.png",
+    "model": "X70 Plus",
+    "path": "/nuevos/marcas/jetour/x70-plus",
+    "type": "model"
+    },
+    {
+    "brand": "Jetour",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/jetour-x90-plus-20t-g-at-4x2-7p-gdi-bencina-automatico-4x2-suv-1fXzi63dN1SMnGmMBq6kUe.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jetour-logo.png",
+    "model": "X90 Plus",
+    "path": "/nuevos/marcas/jetour/x90-plus",
+    "type": "model"
+    },
+    {
+    "brand": "Jetour",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jetour-logo.png",
+    "path": "/nuevos/marcas/jetour",
+    "type": "brand"
+    },
+    {
+    "brand": "JMC",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/jmc-grand-avenue-23-d-at-4x2-cd-diesel-automatico-4x2-pick-up-4hiJJpKx8g4d6FNDLuLa3x.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jmc-logo.png",
+    "model": "Grand Avenue",
+    "path": "/nuevos/marcas/jmc/grand-avenue",
+    "type": "model"
+    },
+    {
+    "brand": "JMC",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/77251-TOURING.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jmc-logo.png",
+    "model": "Touring",
+    "path": "/nuevos/marcas/jmc/touring",
+    "type": "model"
+    },
+    {
+    "brand": "JMC",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/123848-TOURING CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jmc-logo.png",
+    "model": "Touring Cargo BOX",
+    "path": "/nuevos/marcas/jmc/touring-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "JMC",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/123850-VIGUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jmc-logo.png",
+    "model": "Vigus",
+    "path": "/nuevos/marcas/jmc/vigus",
+    "type": "model"
+    },
+    {
+    "brand": "JMC",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/jmc-logo.png",
+    "path": "/nuevos/marcas/jmc",
+    "type": "brand"
+    },
+    {
+    "brand": "Kaiyi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/9999991-0 KYX3 GRIS.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kaiyi-logo.png",
+    "model": "KYX3",
+    "path": "/nuevos/marcas/kaiyi/kyx3",
+    "type": "model"
+    },
+    {
+    "brand": "Kaiyi",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/9999992-0 KYX3 GRIS.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kaiyi-logo.png",
+    "model": "KYX3 PRO",
+    "path": "/nuevos/marcas/kaiyi/kyx3-pro",
+    "type": "model"
+    },
+    {
+    "brand": "Kaiyi",
+    "count": 2,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kaiyi-logo.png",
+    "path": "/nuevos/marcas/kaiyi",
+    "type": "brand"
+    },
+    {
+    "brand": "Karry",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000019-Q22 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/karry-logo.png",
+    "model": "Q22 Cabina Doble",
+    "path": "/nuevos/marcas/karry/q22-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Karry",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000017-Q22 CS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/karry-logo.png",
+    "model": "Q22 Cabina Simple",
+    "path": "/nuevos/marcas/karry/q22-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Karry",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000021-Q22 CARGO BOX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/karry-logo.png",
+    "model": "Q22 Cargo BOX",
+    "path": "/nuevos/marcas/karry/q22-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "Karry",
+    "count": 3,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/karry-logo.png",
+    "path": "/nuevos/marcas/karry",
+    "type": "brand"
+    },
+    {
+    "brand": "KIA",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130321-CARENS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Carens",
+    "path": "/nuevos/marcas/kia/carens",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/oYHK5Abn2wVXh6dG7N7pvA.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Carnival",
+    "path": "/nuevos/marcas/kia/carnival",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/7xFdZFitT26Vt1h89RRQ6h.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Cerato Hatchback",
+    "path": "/nuevos/marcas/kia/cerato-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/w4xtmx4wreaM7zWXXLqrV6.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Cerato Sedan",
+    "path": "/nuevos/marcas/kia/cerato-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/kia-ev9-ev-gt-line-998-kwh-awd-6p2-electrico-automatico-4x4-suv-e3eJmyMzq65RNie1kTryZG.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "EV9",
+    "path": "/nuevos/marcas/kia/ev9",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/57485-FRONTIER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Frontier II",
+    "path": "/nuevos/marcas/kia/frontier-ii",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33674-MORNING.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Morning",
+    "path": "/nuevos/marcas/kia/morning",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59352-NIRO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Niro",
+    "path": "/nuevos/marcas/kia/niro",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/110532-SORENTO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Nuevo Sorento",
+    "path": "/nuevos/marcas/kia/nuevo-sorento",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/63599-RIO HATCHBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "RIO Hatchback",
+    "path": "/nuevos/marcas/kia/rio-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/63589-RIO SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "RIO Sedan",
+    "path": "/nuevos/marcas/kia/rio-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/94359-SELTOS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Seltos",
+    "path": "/nuevos/marcas/kia/seltos",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/83916-SOLUTO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Soluto",
+    "path": "/nuevos/marcas/kia/soluto",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108090-SONET.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Sonet",
+    "path": "/nuevos/marcas/kia/sonet",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125190-SPORTAGE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "model": "Sportage",
+    "path": "/nuevos/marcas/kia/sportage",
+    "type": "model"
+    },
+    {
+    "brand": "KIA",
+    "count": 15,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kia-logo.png",
+    "path": "/nuevos/marcas/kia",
+    "type": "brand"
+    },
+    {
+    "brand": "KYC",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102993-KYC_T3_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kyc-logo.png",
+    "model": "T3 Gran Mamut",
+    "path": "/nuevos/marcas/kyc/t3-gran-mamut",
+    "type": "model"
+    },
+    {
+    "brand": "KYC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/86526-KYC_X5_CARGO_BOX_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kyc-logo.png",
+    "model": "X5 Cargo BOX",
+    "path": "/nuevos/marcas/kyc/x5-cargo-box",
+    "type": "model"
+    },
+    {
+    "brand": "KYC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/98497-KYC_X5_PICK_UP_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kyc-logo.png",
+    "model": "X5 Pick UP",
+    "path": "/nuevos/marcas/kyc/x5-pick-up",
+    "type": "model"
+    },
+    {
+    "brand": "KYC",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/86522-KYC_X5_PICK_UP_DOBLE_CABINA_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kyc-logo.png",
+    "model": "X5 Pick UP Doble Cabina",
+    "path": "/nuevos/marcas/kyc/x5-pick-up-doble-cabina",
+    "type": "model"
+    },
+    {
+    "brand": "KYC",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/kyc-logo.png",
+    "path": "/nuevos/marcas/kyc",
+    "type": "brand"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000054-DEFENDER 110.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Defender 110",
+    "path": "/nuevos/marcas/land-rover/defender-110",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000052-DEFENDER 90.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Defender 90",
+    "path": "/nuevos/marcas/land-rover/defender-90",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000040-DISCOVERTY SPORT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Discovery",
+    "path": "/nuevos/marcas/land-rover/discovery",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000038-DISCOVERY.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Discovery Sport",
+    "path": "/nuevos/marcas/land-rover/discovery-sport",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000049-RANGE ROVER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Range Rover",
+    "path": "/nuevos/marcas/land-rover/range-rover",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000041-RANGE ROVER EVOQUE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Range Rover Evoque",
+    "path": "/nuevos/marcas/land-rover/range-rover-evoque",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000045-RANGE ROVER SPORT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Range Rover Sport",
+    "path": "/nuevos/marcas/land-rover/range-rover-sport",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000044-RANGE ROVER VELAR.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "model": "Range Rover Velar",
+    "path": "/nuevos/marcas/land-rover/range-rover-velar",
+    "type": "model"
+    },
+    {
+    "brand": "Land Rover",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/land-rover-logo.png",
+    "path": "/nuevos/marcas/land-rover",
+    "type": "brand"
+    },
+    {
+    "brand": "Lexus",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/mREMnwvT8zf2q2Vrk2fs5i.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "model": "IS",
+    "path": "/nuevos/marcas/lexus/is",
+    "type": "model"
+    },
+    {
+    "brand": "Lexus",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/khC2HhX1ntYncCSnLpm5ox.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "model": "NX",
+    "path": "/nuevos/marcas/lexus/nx",
+    "type": "model"
+    },
+    {
+    "brand": "Lexus",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/ikYwRerwXeE29VFM1MMroA.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "model": "NX H",
+    "path": "/nuevos/marcas/lexus/nx-h",
+    "type": "model"
+    },
+    {
+    "brand": "Lexus",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113872-RX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "model": "RX",
+    "path": "/nuevos/marcas/lexus/rx",
+    "type": "model"
+    },
+    {
+    "brand": "Lexus",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/135090-UX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "model": "UX",
+    "path": "/nuevos/marcas/lexus/ux",
+    "type": "model"
+    },
+    {
+    "brand": "Lexus",
+    "count": 5,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/lexus-logo.png",
+    "path": "/nuevos/marcas/lexus",
+    "type": "brand"
+    },
+    {
+    "brand": "Mahindra",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/62221-PICK UP CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mahindra-logo.png",
+    "model": "PIK UP Cabina Doble",
+    "path": "/nuevos/marcas/mahindra/pik-up-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Mahindra",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/73752-PICK UP CS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mahindra-logo.png",
+    "model": "PIK UP Cabina Simple",
+    "path": "/nuevos/marcas/mahindra/pik-up-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Mahindra",
+    "count": 2,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mahindra-logo.png",
+    "path": "/nuevos/marcas/mahindra",
+    "type": "brand"
+    },
+    {
+    "brand": "Maserati",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000092-GHIBLI.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maserati-logo.png",
+    "model": "Ghibli",
+    "path": "/nuevos/marcas/maserati/ghibli",
+    "type": "model"
+    },
+    {
+    "brand": "Maserati",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11000075-GRECALE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maserati-logo.png",
+    "model": "Grecale",
+    "path": "/nuevos/marcas/maserati/grecale",
+    "type": "model"
+    },
+    {
+    "brand": "Maserati",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000088-LEVANTE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maserati-logo.png",
+    "model": "Levante",
+    "path": "/nuevos/marcas/maserati/levante",
+    "type": "model"
+    },
+    {
+    "brand": "Maserati",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/maserati-mc20-mc20-bencina-automatico-4x2-deportivo-pvKf4j2ySmUMV4PksXkj9E.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maserati-logo.png",
+    "model": "MC20",
+    "path": "/nuevos/marcas/maserati/mc20",
+    "type": "model"
+    },
+    {
+    "brand": "Maserati",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maserati-logo.png",
+    "path": "/nuevos/marcas/maserati",
+    "type": "brand"
+    },
+    {
+    "brand": "Maxus",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97732-C35.2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "C35",
+    "path": "/nuevos/marcas/maxus/c35",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/112165-V90.2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "Deliver 9",
+    "path": "/nuevos/marcas/maxus/deliver-9",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/106933-V90 CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "Deliver 9 Cargo",
+    "path": "/nuevos/marcas/maxus/deliver-9-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/123343-eDELIVER 9.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "Edeliver 9",
+    "path": "/nuevos/marcas/maxus/edeliver-9",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/101269-EV30.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "Ev30",
+    "path": "/nuevos/marcas/maxus/ev30",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58403-G10 CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "G10 Cargo",
+    "path": "/nuevos/marcas/maxus/g10-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58411-G10 VAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "G10 VAN",
+    "path": "/nuevos/marcas/maxus/g10-van",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/maxus-t60-20-d-at-4x4-4p-cd-glx-d20-7kpiG3zoaFKEGP62ZiZyBh.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "T60",
+    "path": "/nuevos/marcas/maxus/t60",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/119456-T90.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "model": "T90",
+    "path": "/nuevos/marcas/maxus/t90",
+    "type": "model"
+    },
+    {
+    "brand": "Maxus",
+    "count": 9,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/maxus-logo.png",
+    "path": "/nuevos/marcas/maxus",
+    "type": "brand"
+    },
+    {
+    "brand": "Mazda",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33568-2 HATCHBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "2 Hatchback",
+    "path": "/nuevos/marcas/mazda/2-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33574-2 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "2 Sedan",
+    "path": "/nuevos/marcas/mazda/2-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/44033-6 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "6 Sedan",
+    "path": "/nuevos/marcas/mazda/6-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/116226-BT-50.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "BT-50",
+    "path": "/nuevos/marcas/mazda/bt-50",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/36537-CX-3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-3",
+    "path": "/nuevos/marcas/mazda/cx-3",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/89492-CX-30.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-30",
+    "path": "/nuevos/marcas/mazda/cx-30",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/126965-CX-5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-5",
+    "path": "/nuevos/marcas/mazda/cx-5",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/mazda-cx-60-prime-25-awd-bencina-automatico-4x4-suv-1BjxLRM41ngUP4Vv3d4Ahf.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-60",
+    "path": "/nuevos/marcas/mazda/cx-60",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/94396-CX-9.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-9",
+    "path": "/nuevos/marcas/mazda/cx-9",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/mazda-cx-90-33t-g-at-4x4-5p-signature-mhev-bencina-automatico-4x4-suv-eHR23BPGbqhwA9JaxKP9Hv.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "CX-90",
+    "path": "/nuevos/marcas/mazda/cx-90",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/34238-MX-5.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "MX-5",
+    "path": "/nuevos/marcas/mazda/mx-5",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/43886-3 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "model": "New Mazda 3 Sedan",
+    "path": "/nuevos/marcas/mazda/new-mazda-3-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Mazda",
+    "count": 12,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mazda-logo.png",
+    "path": "/nuevos/marcas/mazda",
+    "type": "brand"
+    },
+    {
+    "brand": "Mclaren",
+    "count": 0,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mclaren-logo.png",
+    "path": "/nuevos/marcas/mclaren",
+    "type": "brand"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000093-CLASE A.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase A Hatchback",
+    "path": "/nuevos/marcas/mercedes-benz/clase-a-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000098-CLASE A SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase A Sedan",
+    "path": "/nuevos/marcas/mercedes-benz/clase-a-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000097-CLASE B.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase B",
+    "path": "/nuevos/marcas/mercedes-benz/clase-b",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000126-CLASE C CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase C Cabrio",
+    "path": "/nuevos/marcas/mercedes-benz/clase-c-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000101-CLASE C SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase C Sedan",
+    "path": "/nuevos/marcas/mercedes-benz/clase-c-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000105-CLASE E.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase E",
+    "path": "/nuevos/marcas/mercedes-benz/clase-e",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000128-CLASE E CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase E Cabrio",
+    "path": "/nuevos/marcas/mercedes-benz/clase-e-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000125-CLASE G.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase G",
+    "path": "/nuevos/marcas/mercedes-benz/clase-g",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000109-CLASE S.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase S",
+    "path": "/nuevos/marcas/mercedes-benz/clase-s",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/64582-CLASE V.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Clase V",
+    "path": "/nuevos/marcas/mercedes-benz/clase-v",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/mercedes-benz-eqs-450-eqs-450-electrico-automatico-4x2-sedan-scgedJLHxawwkEkyKEeVCN.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "EQS 450+",
+    "path": "/nuevos/marcas/mercedes-benz/eqs-450",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000103-GLA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLA",
+    "path": "/nuevos/marcas/mercedes-benz/gla",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000111-GLB.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLB",
+    "path": "/nuevos/marcas/mercedes-benz/glb",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000113-GLC.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLC",
+    "path": "/nuevos/marcas/mercedes-benz/glc",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000117-GLE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLE",
+    "path": "/nuevos/marcas/mercedes-benz/gle",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000120-GLE COUPE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLE Coupe",
+    "path": "/nuevos/marcas/mercedes-benz/gle-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/10000124-GLS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "GLS",
+    "path": "/nuevos/marcas/mercedes-benz/gls",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125242-SPRINTER FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Sprinter Furgon",
+    "path": "/nuevos/marcas/mercedes-benz/sprinter-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/78686-SPRINTER MINIBUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Sprinter Minibus",
+    "path": "/nuevos/marcas/mercedes-benz/sprinter-minibus",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/60982-VITO FURGON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Vito Furgon",
+    "path": "/nuevos/marcas/mercedes-benz/vito-furgon",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/122760-VITO MINIBUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "model": "Vito Minibus",
+    "path": "/nuevos/marcas/mercedes-benz/vito-minibus",
+    "type": "model"
+    },
+    {
+    "brand": "MERCEDES-BENZ",
+    "count": 21,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mercedes-benz-logo.png",
+    "path": "/nuevos/marcas/mercedes-benz",
+    "type": "brand"
+    },
+    {
+    "brand": "MG",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/70970-3.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "3",
+    "path": "/nuevos/marcas/mg/3",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/77418-6.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "6",
+    "path": "/nuevos/marcas/mg/6",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/89424-5 SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "5 Sedan",
+    "path": "/nuevos/marcas/mg/5-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125039-GT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "GT",
+    "path": "/nuevos/marcas/mg/gt",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/95092-HS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "HS",
+    "path": "/nuevos/marcas/mg/hs",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/135197-MARVEL R.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "Marvel R",
+    "path": "/nuevos/marcas/mg/marvel-r",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/poQQbr8i3LkGNSVVEWRbL7.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "ONE",
+    "path": "/nuevos/marcas/mg/one",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 7,
+    "image": "https://assets.auto.cl/nvi/mg-rx5-15t-g-dct-4x2-5p-com-bencina-automatico-4x2-suv-8U8Gf9fxKAEEJUjc8YCwPn.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "RX5",
+    "path": "/nuevos/marcas/mg/rx5",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/64814-ZS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "ZS",
+    "path": "/nuevos/marcas/mg/zs",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108792-ZX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "model": "ZX",
+    "path": "/nuevos/marcas/mg/zx",
+    "type": "model"
+    },
+    {
+    "brand": "MG",
+    "count": 10,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mg-logo.png",
+    "path": "/nuevos/marcas/mg",
+    "type": "brand"
+    },
+    {
+    "brand": "Mini",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131962-MINI_CLUBMAN_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "model": "Clubman",
+    "path": "/nuevos/marcas/mini/clubman",
+    "type": "model"
+    },
+    {
+    "brand": "Mini",
+    "count": 7,
+    "image": "https://assets.auto.cl/legacy/img/picture_cars/131949-COOPER 3 PUERTAS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "model": "Cooper 3 Puertas",
+    "path": "/nuevos/marcas/mini/cooper-3-puertas",
+    "type": "model"
+    },
+    {
+    "brand": "Mini",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/34075-COOPER 5 PUERTAS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "model": "Cooper 5 Puertas",
+    "path": "/nuevos/marcas/mini/cooper-5-puertas",
+    "type": "model"
+    },
+    {
+    "brand": "Mini",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131960-COOPER CABRIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "model": "Cooper Cabrio",
+    "path": "/nuevos/marcas/mini/cooper-cabrio",
+    "type": "model"
+    },
+    {
+    "brand": "Mini",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131966-COUNTRYMAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "model": "Countryman",
+    "path": "/nuevos/marcas/mini/countryman",
+    "type": "model"
+    },
+    {
+    "brand": "Mini",
+    "count": 5,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mini-cooper-logo.png",
+    "path": "/nuevos/marcas/mini",
+    "type": "brand"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/65727-ASK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "model": "ASX",
+    "path": "/nuevos/marcas/mitsubishi/asx",
+    "type": "model"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/67639-ECLIPSE CROSS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "model": "Eclipse Cross",
+    "path": "/nuevos/marcas/mitsubishi/eclipse-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/33472-L200 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "model": "L200 Cabina Doble",
+    "path": "/nuevos/marcas/mitsubishi/l200-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/127577-MMCN0105_principal (1).jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "model": "NEW Outlander",
+    "path": "/nuevos/marcas/mitsubishi/new-outlander",
+    "type": "model"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100110-1685025197-trimmy-1-2.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "model": "Xpander",
+    "path": "/nuevos/marcas/mitsubishi/xpander",
+    "type": "model"
+    },
+    {
+    "brand": "Mitsubishi",
+    "count": 5,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/mitsubishi-logo.png",
+    "path": "/nuevos/marcas/mitsubishi",
+    "type": "brand"
+    },
+    {
+    "brand": "Nissan",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/44934-KICKS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Kicks",
+    "path": "/nuevos/marcas/nissan/kicks",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/73974-LEAF.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Leaf",
+    "path": "/nuevos/marcas/nissan/leaf",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/106389-NAVARA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "New Navara Cabina Doble",
+    "path": "/nuevos/marcas/nissan/new-navara-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/98350-SENTRA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Nuevo Sentra",
+    "path": "/nuevos/marcas/nissan/nuevo-sentra",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/86491-VERSA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Nuevo Versa",
+    "path": "/nuevos/marcas/nissan/nuevo-versa",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/nissan-pathfinder-advance-cvt-2wd-njPkpPTXCbhKZGxUYCsr7M.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Pathfinder",
+    "path": "/nuevos/marcas/nissan/pathfinder",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/132541-QASHQAI.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Qashqai",
+    "path": "/nuevos/marcas/nissan/qashqai",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/24921-URVAN CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "Urban Cargo",
+    "path": "/nuevos/marcas/nissan/urban-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/48219-X-TRAIL.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "X-Trail",
+    "path": "/nuevos/marcas/nissan/x-trail",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/nissan-x-trail-e-power-advance-3row-awd-advance-3hwAPa5qamhTXVshTeBoom.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "model": "X-Trail E-Power",
+    "path": "/nuevos/marcas/nissan/x-trail-e-power",
+    "type": "model"
+    },
+    {
+    "brand": "Nissan",
+    "count": 10,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/nissan-logo.png",
+    "path": "/nuevos/marcas/nissan",
+    "type": "brand"
+    },
+    {
+    "brand": "Opel",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/opel-combo-16-d-mt-4p-1pl-24yEGC8DAfSD4vQ2atyqV1.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Combo",
+    "path": "/nuevos/marcas/opel/combo",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/94405-CORSA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Corsa",
+    "path": "/nuevos/marcas/opel/corsa",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/107104-CROSSLAND.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Crossland",
+    "path": "/nuevos/marcas/opel/crossland",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/9999996-GRANDLAND.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Grandland",
+    "path": "/nuevos/marcas/opel/grandland",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118494-0ME76ET61.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Mokka",
+    "path": "/nuevos/marcas/opel/mokka",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/89127-VIVARO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "model": "Vivaro",
+    "path": "/nuevos/marcas/opel/vivaro",
+    "type": "model"
+    },
+    {
+    "brand": "Opel",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/opel-logo.png",
+    "path": "/nuevos/marcas/opel",
+    "type": "brand"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108066-208.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "208",
+    "path": "/nuevos/marcas/peugeot/208",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/130204-308.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "308",
+    "path": "/nuevos/marcas/peugeot/308",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97602-3008.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "3008",
+    "path": "/nuevos/marcas/peugeot/3008",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/71908-5008.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "5008",
+    "path": "/nuevos/marcas/peugeot/5008",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58047-BOXER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Boxer",
+    "path": "/nuevos/marcas/peugeot/boxer",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58053-BOXER CHASIS.2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Boxer Chasis",
+    "path": "/nuevos/marcas/peugeot/boxer-chasis",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/49436-EXPERT.2.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Expert",
+    "path": "/nuevos/marcas/peugeot/expert",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/116772-LANDTREK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Landtrek",
+    "path": "/nuevos/marcas/peugeot/landtrek",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/114073-2008.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Nuevo 2008",
+    "path": "/nuevos/marcas/peugeot/nuevo-2008",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/miPGmR6AkcZ8kmdbpyRFSG.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Partner",
+    "path": "/nuevos/marcas/peugeot/partner",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/5MWm4V6N1dRbzqkL32i3s5.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Partner Electric",
+    "path": "/nuevos/marcas/peugeot/partner-electric",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/77912-RIFTER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Rifter",
+    "path": "/nuevos/marcas/peugeot/rifter",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/66025-TRAVELLER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "model": "Traveller",
+    "path": "/nuevos/marcas/peugeot/traveller",
+    "type": "model"
+    },
+    {
+    "brand": "Peugeot",
+    "count": 13,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/peugeot-logo.png",
+    "path": "/nuevos/marcas/peugeot",
+    "type": "brand"
+    },
+    {
+    "brand": "Porsche",
+    "count": 7,
+    "image": "https://assets.auto.cl/nvi/porsche-718-20-g-dsg-2p-boxster-turbo-3TVVjFCKUJS3MJvaWuUqQA.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "718",
+    "path": "/nuevos/marcas/porsche/718",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 21,
+    "image": "https://assets.auto.cl/nvi/porsche-911-30-g-dsg-2p-mpFxZCRR6XaVqdWA8hYtdn.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "911",
+    "path": "/nuevos/marcas/porsche/911",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/porsche-cayenne-30-g-at-4x4-5p-iTWkHqjo9rkcdUdahKFddQ.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "Cayenne",
+    "path": "/nuevos/marcas/porsche/cayenne",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/porsche-cayenne-coupe-30-g-at-4x4-5p-qZuaybCaWiSbicFLYNzjwS.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "Cayenne Coupe",
+    "path": "/nuevos/marcas/porsche/cayenne-coupe",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/porsche-macan-20-g-dsg-4x4-5p-3vviUARq2d5iWtAC1DdXWk.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "Macan",
+    "path": "/nuevos/marcas/porsche/macan",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/porsche-panamera-29-h-dsg-4x4-5p-4s-e-hybrid-phev-wEKrLC5gnsKCNLdsCATM1Z.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "Panamera",
+    "path": "/nuevos/marcas/porsche/panamera",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/porsche-taycan-420-kw-5p-4s-turismo-cross-nRfq5rP6248VZrRmtbLtVD.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "model": "Taycan",
+    "path": "/nuevos/marcas/porsche/taycan",
+    "type": "model"
+    },
+    {
+    "brand": "Porsche",
+    "count": 7,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/porsche-logo.png",
+    "path": "/nuevos/marcas/porsche",
+    "type": "brand"
+    },
+    {
+    "brand": "RAM",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/77945-1000.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "1000 Pick UP",
+    "path": "/nuevos/marcas/ram/1000-pick-up",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/89677-1500 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "1500 CD",
+    "path": "/nuevos/marcas/ram/1500-cd",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/95975-2500 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "2500 CD",
+    "path": "/nuevos/marcas/ram/2500-cd",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/101266-700 CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "700 CD",
+    "path": "/nuevos/marcas/ram/700-cd",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/101260-700 CS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "Nueva 700 CE",
+    "path": "/nuevos/marcas/ram/nueva-700-ce",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/64661-1000 VAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "V1000",
+    "path": "/nuevos/marcas/ram/v1000",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/75802-700 VAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "V700 City",
+    "path": "/nuevos/marcas/ram/v700-city",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/129593-ram-v700-rapid (1).png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "model": "V700 Rapid",
+    "path": "/nuevos/marcas/ram/v700-rapid",
+    "type": "model"
+    },
+    {
+    "brand": "RAM",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/ram-logo.png",
+    "path": "/nuevos/marcas/ram",
+    "type": "brand"
+    },
+    {
+    "brand": "Renault",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102577-ARKANA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Arkana",
+    "path": "/nuevos/marcas/renault/arkana",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/124104-CLIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Clio",
+    "path": "/nuevos/marcas/renault/clio",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/38548-DUSTER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Duster",
+    "path": "/nuevos/marcas/renault/duster",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/76098-KANGOO ZE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Kangoo Z.e.",
+    "path": "/nuevos/marcas/renault/kangoo-ze",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113825-KOLEOS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Koleos",
+    "path": "/nuevos/marcas/renault/koleos",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108645-KWID.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Kwid",
+    "path": "/nuevos/marcas/renault/kwid",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/70980-MEGANE RS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Megane RS",
+    "path": "/nuevos/marcas/renault/megane-rs",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131536-OROCH.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "model": "Oroch",
+    "path": "/nuevos/marcas/renault/oroch",
+    "type": "model"
+    },
+    {
+    "brand": "Renault",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/renault-logo.png",
+    "path": "/nuevos/marcas/renault",
+    "type": "brand"
+    },
+    {
+    "brand": "Rivian",
+    "count": 0,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/rivian.png",
+    "path": "/nuevos/marcas/rivian",
+    "type": "brand"
+    },
+    {
+    "brand": "Seat",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/125599-ARONA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/seat-logo.png",
+    "model": "Arona",
+    "path": "/nuevos/marcas/seat/arona",
+    "type": "model"
+    },
+    {
+    "brand": "Seat",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/83637-ATECA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/seat-logo.png",
+    "model": "Ateca",
+    "path": "/nuevos/marcas/seat/ateca",
+    "type": "model"
+    },
+    {
+    "brand": "Seat",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/123605-IBIZA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/seat-logo.png",
+    "model": "Ibiza",
+    "path": "/nuevos/marcas/seat/ibiza",
+    "type": "model"
+    },
+    {
+    "brand": "Seat",
+    "count": 3,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/seat-logo.png",
+    "path": "/nuevos/marcas/seat",
+    "type": "brand"
+    },
+    {
+    "brand": "Skoda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/71088-FABIA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Fabia",
+    "path": "/nuevos/marcas/skoda/fabia",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131045-KAMIQ.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Kamiq",
+    "path": "/nuevos/marcas/skoda/kamiq",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/95256-KAROQ.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Karoq",
+    "path": "/nuevos/marcas/skoda/karoq",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58633-KODIAQ.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Kodiaq",
+    "path": "/nuevos/marcas/skoda/kodiaq",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108711-OCTAVIA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Octavia",
+    "path": "/nuevos/marcas/skoda/octavia",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/131047-SCALA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "model": "Scala",
+    "path": "/nuevos/marcas/skoda/scala",
+    "type": "model"
+    },
+    {
+    "brand": "Skoda",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/skoda-logo.png",
+    "path": "/nuevos/marcas/skoda",
+    "type": "brand"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/98769-KORANDO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Korando",
+    "path": "/nuevos/marcas/ssangyong/korando",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/68694-MUSSO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Musso",
+    "path": "/nuevos/marcas/ssangyong/musso",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 6,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/115319-MUSSO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Musso Grand",
+    "path": "/nuevos/marcas/ssangyong/musso-grand",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58618-REXTON.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Rexton",
+    "path": "/nuevos/marcas/ssangyong/rexton",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/32536-TIVOLI.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Tivoli",
+    "path": "/nuevos/marcas/ssangyong/tivoli",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/9999988-TORRES.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "model": "Torres",
+    "path": "/nuevos/marcas/ssangyong/torres",
+    "type": "model"
+    },
+    {
+    "brand": "Ssangyong",
+    "count": 6,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/SSANGYONG-logo.png",
+    "path": "/nuevos/marcas/ssangyong",
+    "type": "brand"
+    },
+    {
+    "brand": "Subaru",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/subaru-crosstrek-20l-awd-cvt-dynamic-es-7c8W9eidqEcxqcUgiXryZ4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Crosstrek",
+    "path": "/nuevos/marcas/subaru/crosstrek",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/113269-EVOLTIS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Evoltis",
+    "path": "/nuevos/marcas/subaru/evoltis",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/55843-FORESTER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Forester",
+    "path": "/nuevos/marcas/subaru/forester",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/52211-IMPREZA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Impreza Hatchback",
+    "path": "/nuevos/marcas/subaru/impreza-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/62128-IMPREZA SEDAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Impreza Sedan",
+    "path": "/nuevos/marcas/subaru/impreza-sedan",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/32970-OUTBACK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "Outback",
+    "path": "/nuevos/marcas/subaru/outback",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128031-WRX.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "WRX",
+    "path": "/nuevos/marcas/subaru/wrx",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/129447-WRXSW.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "model": "WRX SW",
+    "path": "/nuevos/marcas/subaru/wrx-sw",
+    "type": "model"
+    },
+    {
+    "brand": "Subaru",
+    "count": 8,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/subaru-logo.png",
+    "path": "/nuevos/marcas/subaru",
+    "type": "brand"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/suzuki-alto-10-g-mt-4x2-5p-gl-bencina-mecanico-4x2-hatchback-nrwkXgKcGHyZTa5Ba9hvUx.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Alto",
+    "path": "/nuevos/marcas/suzuki/alto",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/135358-BALENO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Baleno",
+    "path": "/nuevos/marcas/suzuki/baleno",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/94826-CARRY.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Carry",
+    "path": "/nuevos/marcas/suzuki/carry",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/32514-CELERIO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Celerio",
+    "path": "/nuevos/marcas/suzuki/celerio",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/56848-D-ZIRE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Dzire",
+    "path": "/nuevos/marcas/suzuki/dzire",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/11100080-ERTIGA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Ertiga",
+    "path": "/nuevos/marcas/suzuki/ertiga",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 4,
+    "image": "https://assets.auto.cl/nvi/suzuki-fronx-15-h-mt-4x2-gl-hibrido-mecanico-4x2-suv-1qUnK4HFvqELMYs7m4m8Pv.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Fronx",
+    "path": "/nuevos/marcas/suzuki/fronx",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/115309-JIMNY.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Jimny",
+    "path": "/nuevos/marcas/suzuki/jimny",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/132194-S-CROSS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "S-CROSS",
+    "path": "/nuevos/marcas/suzuki/s-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/93983-S-PRESSO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "S-PRESSO",
+    "path": "/nuevos/marcas/suzuki/s-presso",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 7,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/55131-SWIFT.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Swift",
+    "path": "/nuevos/marcas/suzuki/swift",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 2,
+    "image": "https://assets.auto.cl/nvi/uqpYvh7RAnxGcr1UKsBWt9.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "Swift Sport",
+    "path": "/nuevos/marcas/suzuki/swift-sport",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/96929-XL7.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "model": "XL7",
+    "path": "/nuevos/marcas/suzuki/xl7",
+    "type": "model"
+    },
+    {
+    "brand": "Suzuki",
+    "count": 13,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/suzuki-logo.png",
+    "path": "/nuevos/marcas/suzuki",
+    "type": "brand"
+    },
+    {
+    "brand": "Tesla",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/cF1jJ598WUfK9ne6Zv15Q9.webp",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/tesla.png",
+    "model": "Model 3",
+    "path": "/nuevos/marcas/tesla/model-3",
+    "type": "model"
+    },
+    {
+    "brand": "Tesla",
+    "count": 1,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/tesla.png",
+    "path": "/nuevos/marcas/tesla",
+    "type": "brand"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/25536-4RUNNER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "4runner",
+    "path": "/nuevos/marcas/toyota/4runner",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/105847-CH-R.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "C-HR",
+    "path": "/nuevos/marcas/toyota/c-hr",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/99942-COROLLA.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Corolla",
+    "path": "/nuevos/marcas/toyota/corolla",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/111726-COROLLA CROSS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Corolla Cross",
+    "path": "/nuevos/marcas/toyota/corolla-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 6,
+    "image": "https://assets.auto.cl/nvi/s4QE1LxP4rscaF7MaoSBgZ.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Fortuner",
+    "path": "/nuevos/marcas/toyota/fortuner",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/79837-HIACE CARGO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Hiace Cargo",
+    "path": "/nuevos/marcas/toyota/hiace-cargo",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/79841-HIACE MINIBUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Hiace Minibus",
+    "path": "/nuevos/marcas/toyota/hiace-minibus",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/51589-HILUX CD.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Hilux Cabina Doble",
+    "path": "/nuevos/marcas/toyota/hilux-cabina-doble",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/39713-HILUX CS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Hilux Cabina Simple",
+    "path": "/nuevos/marcas/toyota/hilux-cabina-simple",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/66057-LANDCRUISER.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Land Cruiser Prado",
+    "path": "/nuevos/marcas/toyota/land-cruiser-prado",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/102490-RUSH.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Nuevo Rush",
+    "path": "/nuevos/marcas/toyota/nuevo-rush",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/121895-RAIZE.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Raize",
+    "path": "/nuevos/marcas/toyota/raize",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 8,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/81000-RAV4.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Rav4",
+    "path": "/nuevos/marcas/toyota/rav4",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/9VkQFfh6hAw8VbagDaAnoC.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Yaris",
+    "path": "/nuevos/marcas/toyota/yaris",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/toyota-yaris-cross-xg-15-cvt-4x2-bencina-automatico-4x2-suv-d4jxzsPCR1SsgY55sdXyuA.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "model": "Yaris Cross",
+    "path": "/nuevos/marcas/toyota/yaris-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Toyota",
+    "count": 15,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/toyota-logo.png",
+    "path": "/nuevos/marcas/toyota",
+    "type": "brand"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 5,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/47667-AMAROK.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Amarok",
+    "path": "/nuevos/marcas/volkswagen/amarok",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/60762-ATLAS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Atlas",
+    "path": "/nuevos/marcas/volkswagen/atlas",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 3,
+    "image": "https://assets.auto.cl/nvi/volkswagen-jetta-14-g-mt-5p-tsi-comfortline-jUS9VnaHV6Wi6rPRN33dwJ.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Jetta",
+    "path": "/nuevos/marcas/volkswagen/jetta",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/104923-NIVUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Nivus",
+    "path": "/nuevos/marcas/volkswagen/nivus",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/59070-POLO.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Polo Hatchback",
+    "path": "/nuevos/marcas/volkswagen/polo-hatchback",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/volkswagen-saveiro-cd-16-g-mt-4x2-4p-cd-comfortline-dCu9M2Rxr8UXWMsULkASui.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Saveiro CD",
+    "path": "/nuevos/marcas/volkswagen/saveiro-cd",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/volkswagen-saveiro-ce-16-g-mt-4x2-2p-ce-cross-boUWFT1KYUbvodGYDw7HmE.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Saveiro CE",
+    "path": "/nuevos/marcas/volkswagen/saveiro-ce",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/volkswagen-saveiro-cs-16-g-mt-4x2-2p-cs-jeNAx9cBN6NB2ZptM6CPNi.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Saveiro CS",
+    "path": "/nuevos/marcas/volkswagen/saveiro-cs",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/109395-T-CROSS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "T-CROSS",
+    "path": "/nuevos/marcas/volkswagen/t-cross",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/58267-TIGUAN.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Tiguan",
+    "path": "/nuevos/marcas/volkswagen/tiguan",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 4,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/60837-VIRTUS.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "model": "Virtus",
+    "path": "/nuevos/marcas/volkswagen/virtus",
+    "type": "model"
+    },
+    {
+    "brand": "Volkswagen",
+    "count": 11,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volkswagen-logo.png",
+    "path": "/nuevos/marcas/volkswagen",
+    "type": "brand"
+    },
+    {
+    "brand": "Volvo",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/128066-c40.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volvo-logo.png",
+    "model": "C40",
+    "path": "/nuevos/marcas/volvo/c40",
+    "type": "model"
+    },
+    {
+    "brand": "Volvo",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118639-s60.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volvo-logo.png",
+    "model": "S60",
+    "path": "/nuevos/marcas/volvo/s60",
+    "type": "model"
+    },
+    {
+    "brand": "Volvo",
+    "count": 3,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/108794-XC40.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volvo-logo.png",
+    "model": "XC40",
+    "path": "/nuevos/marcas/volvo/xc40",
+    "type": "model"
+    },
+    {
+    "brand": "Volvo",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/118633-XC90.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volvo-logo.png",
+    "model": "XC90",
+    "path": "/nuevos/marcas/volvo/xc90",
+    "type": "model"
+    },
+    {
+    "brand": "Volvo",
+    "count": 4,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/volvo-logo.png",
+    "path": "/nuevos/marcas/volvo",
+    "type": "brand"
+    },
+    {
+    "brand": "ZNA",
+    "count": 2,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/97788-ZNA_DF6_1.jpg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/zna-logo.png",
+    "model": "DF6",
+    "path": "/nuevos/marcas/zna/df6",
+    "type": "model"
+    },
+    {
+    "brand": "ZNA",
+    "count": 1,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/zna-logo.png",
+    "path": "/nuevos/marcas/zna",
+    "type": "brand"
+    },
+    {
+    "brand": "Zxauto",
+    "count": 1,
+    "image": "https://assets.auto.cl/nvi/zxauto-grand-lion-23-d-mt-4x4-4p-5as-diesel-mecanico-4x4-pick-up-2sYtJZvYCnfKk6SPckRaGG.jpeg",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/zxauto-logo.png",
+    "model": "Grand Lion",
+    "path": "/nuevos/marcas/zxauto/grand-lion",
+    "type": "model"
+    },
+    {
+    "brand": "Zxauto",
+    "count": 1,
+    "image": "//assets.auto.cl/legacy/img/picture_cars/117414-ZXAUTO_TERRALORD_2.png",
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/zxauto-logo.png",
+    "model": "Terralord",
+    "path": "/nuevos/marcas/zxauto/terralord",
+    "type": "model"
+    },
+    {
+    "brand": "Zxauto",
+    "count": 2,
+    "logo": "//assets.auto.cl/legacy/img/logo_brands/zxauto-logo.png",
+    "path": "/nuevos/marcas/zxauto",
+    "type": "brand"
+    }
+    ]
