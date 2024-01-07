@@ -1,3 +1,5 @@
+
+
 export function Pagination ({ productsPorPage,currentPage,setCurrentPage,totalProducts }){
     const pageNumerbs = []
 
@@ -20,7 +22,7 @@ export function Pagination ({ productsPorPage,currentPage,setCurrentPage,totalPr
 
     return (
         <div className="flex items-center justify-center p-10">
-            <a onClick={onPreviusPage}  className="flex items-center px-4 py-2 mx-1 text-gray-500 bg-white rounded-md cursor-not-allowed disable border border-black  dark:bg-white dark:text-gray-500">
+            <a onClick={onPreviusPage}  className="flex items-center px-4 py-2 mx-1 text-gray-500 bg-white rounded-md  border border-black  dark:bg-white dark:text-gray-500">
                 Anterior
             </a>
             
