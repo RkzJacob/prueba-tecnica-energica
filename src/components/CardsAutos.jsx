@@ -1,4 +1,15 @@
+import { useState } from "react"
+import { Pagination } from "./Pagination"
+
 function ListOfAutos  ({ autos}) {
+    const [productsPorPage, setProductsPorPage] = useState(30); 
+    const [currentPage, setCurrentPage] = useState(1)
+    const totalProducts = autos.length
+
+    const lastIndex = currentPage * productsPorPage
+    const firstIndex = lastIndex - productsPorPage
+
+
     return (
         <div>
       <ul className="autos ">
@@ -19,10 +30,19 @@ function ListOfAutos  ({ autos}) {
                   </div>
                     
                   </li>
-                ))  
+                )).slice(firstIndex,lastIndex) 
               }
         </ul>
+        
+            <Pagination 
+            productsPorPage={productsPorPage} 
+            currentPage={currentPage} 
+            setCurrentPage={setCurrentPage}
+            totalProducts={totalProducts}
+            />
+        
         </div>
+        
    
     )
     

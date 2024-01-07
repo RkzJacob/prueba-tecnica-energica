@@ -54,7 +54,7 @@ function App() {
    debounce(search => {
     getAutos({search})
 
-  },2000)
+  },4000)
   ,[getAutos])
 
   
@@ -73,7 +73,7 @@ function App() {
 
   return (
 
-    <div className='grid grid-cols-6 gap-4 '>
+    <div className='grid grid-cols-6 gap-4  '>
 
       <HeaderX/>
 
@@ -106,7 +106,7 @@ function App() {
       
       
       
-      <div className='col-start-2 col-end-6'>
+      <div className='col-start-2 col-end-6 grid-rows-5'>
       <main>
       {
           loading ? <Loading /> :  <Autos autos={autos}/>
