@@ -1,14 +1,28 @@
 import { useRef, useState,useCallback } from 'react'
 import { searchAutos } from '../service/autos'
 
-export function useAutos({ search}){
+export function useAutos({ search }){
     const [autos, setAutos] = useState([])
     const [loading, setLoading] = useState(false)
     const [error, setError] = useState(null)
     const previusSearch = useRef(search)
 
+
+    const getAllAutos = useCallback(async () => {
+        try {
+          setLoading(true);
+          setError(null);
+          const allAutos = await searchAutos({ search: '' }); // Llama a la búsqueda con búsqueda vacía para obtener todos los autos
+          setAutos(allAutos);
+        } catch (error) {
+          setError(error.message);
+        } finally {
+          setLoading(false);
+        }
+      }, []);
+
     const getAutos = useCallback(async () => {
-        if(search=== previusSearch.current)return
+        if(search === previusSearch.current)return
 
         try {
             setLoading(true)
@@ -24,5 +38,5 @@ export function useAutos({ search}){
         }
     },[search])
   
-    return { autos , getAutos,loading}
+    return { autos , getAutos,loading,getAllAutos}
    }

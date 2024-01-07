@@ -1,16 +1,29 @@
 function ListOfAutos  ({ autos}) {
     return (
-        <ul className="autos">
+        <div>
+      <ul className="autos ">
               {
                 autos.map(auto => (
-                  <li className="grid-cols-3" key={auto.id}>
-                    <h3>{auto.marca}</h3>
-                    <p>{auto.modelo}</p>
-                    <img src={auto.image} alt={auto.modelo} />
+                  <li className="text-white text-left" key={auto.id}>
+                    <div  className="max-w-sm bg-white border border-gray-200 rounded-lg  dark:bg-gray-200 dark:border-gray-100 shadow-xl">
+                    <a href="#">
+                        <img className=" border-2  border-b-indigo-500 rounded-t-lg bg-white" src={auto.image} alt={auto.modelo} />
+                    </a>
+                    <div className="p-5 bg-white" >
+                        <a href="#">
+                            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-800  dark:text-gray-800">{auto.marca}</h5>
+                        </a>
+                        <p className="mb-3 font-normal text-gray-800 dark:text-gray-800">{auto.modelo}</p>
+                        
+                    </div>
+                  </div>
+                    
                   </li>
                 ))  
               }
         </ul>
+        </div>
+   
     )
     
 }

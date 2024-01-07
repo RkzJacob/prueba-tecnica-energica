@@ -2,7 +2,7 @@
 const API = 'https://auto-cl-default-rtdb.firebaseio.com/V1/vehicles/new/search/data.json'
 
 export const searchAutos = async ({ search }) =>{
-    if(search === '') return []
+    
 
     try {
         const response = await fetch(API)
