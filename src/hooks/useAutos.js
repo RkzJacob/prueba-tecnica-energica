@@ -21,12 +21,13 @@ export function useAutos({ search }){
         }
       }, []);
 
-    const getAutos = useCallback(async () => {
+    const getAutos = useCallback(async ({search}) => {
         if(search === previusSearch.current)return
 
         try {
             setLoading(true)
             setError(null)
+            previusSearch.current = search
             const newAutos = await searchAutos({search})
             setAutos(newAutos)    
             
@@ -36,7 +37,7 @@ export function useAutos({ search }){
         }finally{
             setLoading(false)
         }
-    },[search])
+    },[])
   
     return { autos , getAutos,loading,getAllAutos}
    }

@@ -12,7 +12,9 @@ function useSearch(){
   const [error, setError] = useState(null)
   const isFirstInput = useRef(true)
 
+
   useEffect(() => {
+    
     
     if (isFirstInput.current){
       isFirstInput.current = search === ''
@@ -46,15 +48,15 @@ function App() {
   const { autos ,getAutos,loading,getAllAutos} = useAutos({search})
 
   useEffect(() => {
-    getAllAutos()
-  }, [getAllAutos])
-  
+    getAllAutos();
+  }, [getAllAutos]);
+
 
   const debounceGetAutos = useCallback(
-   debounce(search => {
+    debounce(search => {
     getAutos({search})
 
-  },4000)
+  },2000)
   ,[getAutos])
 
   
